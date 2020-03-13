@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/learning-crawlers/locatefamily-brazil.svg)](http://hits.dwyl.com/learning-crawlers/locatefamily-brazil)
+
 # LOCATE FAMILY Brazil
 
 Extração de dados com Beautiful Soup para listar os brasileiros do Locate Family
